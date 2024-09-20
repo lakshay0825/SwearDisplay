@@ -1,0 +1,45 @@
+@font-face {
+    font-family: 'Swear Display';
+    src: url('SwearDisplay-BoldCilati.woff2') format('woff2'),
+        url('SwearDisplay-BoldCilati.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Swear Display';
+    src: url('SwearDisplay-Regular.woff2') format('woff2'),
+        url('SwearDisplay-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Swear Display';
+    src: url('SwearDisplay-Cilati.woff2') format('woff2'),
+        url('SwearDisplay-Cilati.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Swear Display';
+    src: url('SwearDisplay-Bold.woff2') format('woff2'),
+        url('SwearDisplay-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Swear Display';
+    src: url('SwearDisplay-BoldItalic.woff2') format('woff2'),
+        url('SwearDisplay-BoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
