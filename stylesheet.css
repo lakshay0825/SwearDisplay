@@ -1,7 +1,7 @@
 @font-face {
     font-family: 'Swear Display';
-    src: url('SwearDisplay-BoldCilati.woff2') format('woff2'),
-        url('SwearDisplay-BoldCilati.woff') format('woff');
+    src: url('https://raw.githubusercontent.com/lakshay0825/SwearDisplay/refs/heads/main/SwearDisplay-BoldCilati.woff2') format('woff2'),
+        url('https://raw.githubusercontent.com/lakshay0825/SwearDisplay/refs/heads/main/SwearDisplay-BoldCilati.woff') format('woff');
     font-weight: bold;
     font-style: normal;
     font-display: swap;
@@ -9,8 +9,8 @@
 
 @font-face {
     font-family: 'Swear Display';
-    src: url('SwearDisplay-Regular.woff2') format('woff2'),
-        url('SwearDisplay-Regular.woff') format('woff');
+    src: url('https://raw.githubusercontent.com/lakshay0825/SwearDisplay/refs/heads/main/SwearDisplay-Regular.woff2') format('woff2'),
+        url('https://raw.githubusercontent.com/lakshay0825/SwearDisplay/refs/heads/main/SwearDisplay-Regular.woff') format('woff');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -18,8 +18,8 @@
 
 @font-face {
     font-family: 'Swear Display';
-    src: url('SwearDisplay-Cilati.woff2') format('woff2'),
-        url('SwearDisplay-Cilati.woff') format('woff');
+    src: url('https://raw.githubusercontent.com/lakshay0825/SwearDisplay/refs/heads/main/SwearDisplay-Cilati.woff2') format('woff2'),
+        url('https://raw.githubusercontent.com/lakshay0825/SwearDisplay/refs/heads/main/SwearDisplay-Cilati.woff') format('woff');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -27,8 +27,8 @@
 
 @font-face {
     font-family: 'Swear Display';
-    src: url('SwearDisplay-Bold.woff2') format('woff2'),
-        url('SwearDisplay-Bold.woff') format('woff');
+    src: url('https://raw.githubusercontent.com/lakshay0825/SwearDisplay/refs/heads/main/SwearDisplay-Bold.woff2') format('woff2'),
+        url('https://raw.githubusercontent.com/lakshay0825/SwearDisplay/refs/heads/main/SwearDisplay-Bold.woff') format('woff');
     font-weight: bold;
     font-style: normal;
     font-display: swap;
@@ -36,8 +36,8 @@
 
 @font-face {
     font-family: 'Swear Display';
-    src: url('SwearDisplay-BoldItalic.woff2') format('woff2'),
-        url('SwearDisplay-BoldItalic.woff') format('woff');
+    src: url('https://raw.githubusercontent.com/lakshay0825/SwearDisplay/refs/heads/main/SwearDisplay-BoldItalic.woff2') format('woff2'),
+        url('https://raw.githubusercontent.com/lakshay0825/SwearDisplay/refs/heads/main/SwearDisplay-BoldItalic.woff') format('woff');
     font-weight: bold;
     font-style: italic;
     font-display: swap;
