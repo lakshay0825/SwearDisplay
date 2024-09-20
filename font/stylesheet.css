@@ -1,11 +1,11 @@
 @font-face {
     font-family: 'Swear Display';
-    src: url('SwearDisplay-BoldCilati.eot');
-    src: url('SwearDisplay-BoldCilati.eot?#iefix') format('embedded-opentype'),
-        url('SwearDisplay-BoldCilati.woff2') format('woff2'),
-        url('SwearDisplay-BoldCilati.woff') format('woff'),
-        url('SwearDisplay-BoldCilati.ttf') format('truetype'),
-        url('SwearDisplay-BoldCilati.svg#SwearDisplay-BoldCilati') format('svg');
+    src: url('https://raw.githubusercontent.com/lakshay0825/SwearDisplay/refs/heads/main/font/SwearDisplay-BoldCilati.eot');
+    src: url('https://raw.githubusercontent.com/lakshay0825/SwearDisplay/refs/heads/main/font/SwearDisplay-BoldCilati.eot?#iefix') format('embedded-opentype'),
+        url('https://raw.githubusercontent.com/lakshay0825/SwearDisplay/refs/heads/main/font/SwearDisplay-BoldCilati.woff2') format('woff2'),
+        url('https://raw.githubusercontent.com/lakshay0825/SwearDisplay/refs/heads/main/font/SwearDisplay-BoldCilati.woff') format('woff'),
+        url('https://raw.githubusercontent.com/lakshay0825/SwearDisplay/refs/heads/main/font/SwearDisplay-BoldCilati.ttf') format('truetype'),
+        url('https://raw.githubusercontent.com/lakshay0825/SwearDisplay/refs/heads/main/font/SwearDisplay-BoldCilati.svg#SwearDisplay-BoldCilati') format('svg');
     font-weight: bold;
     font-style: normal;
     font-display: swap;
@@ -13,12 +13,12 @@
 
 @font-face {
     font-family: 'Swear Display';
-    src: url('SwearDisplay-Regular.eot');
-    src: url('SwearDisplay-Regular.eot?#iefix') format('embedded-opentype'),
-        url('SwearDisplay-Regular.woff2') format('woff2'),
-        url('SwearDisplay-Regular.woff') format('woff'),
-        url('SwearDisplay-Regular.ttf') format('truetype'),
-        url('SwearDisplay-Regular.svg#SwearDisplay-Regular') format('svg');
+    src: url('https://raw.githubusercontent.com/lakshay0825/SwearDisplay/refs/heads/main/font/SwearDisplay-Regular.eot');
+    src: url('https://raw.githubusercontent.com/lakshay0825/SwearDisplay/refs/heads/main/font/SwearDisplay-Regular.eot?#iefix') format('embedded-opentype'),
+        url('https://raw.githubusercontent.com/lakshay0825/SwearDisplay/refs/heads/main/font/SwearDisplay-Regular.woff2') format('woff2'),
+        url('https://raw.githubusercontent.com/lakshay0825/SwearDisplay/refs/heads/main/font/SwearDisplay-Regular.woff') format('woff'),
+        url('https://raw.githubusercontent.com/lakshay0825/SwearDisplay/refs/heads/main/font/SwearDisplay-Regular.ttf') format('truetype'),
+        url('https://raw.githubusercontent.com/lakshay0825/SwearDisplay/refs/heads/main/font/SwearDisplay-Regular.svg#SwearDisplay-Regular') format('svg');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -26,12 +26,12 @@
 
 @font-face {
     font-family: 'Swear Display';
-    src: url('SwearDisplay-Cilati.eot');
-    src: url('SwearDisplay-Cilati.eot?#iefix') format('embedded-opentype'),
-        url('SwearDisplay-Cilati.woff2') format('woff2'),
-        url('SwearDisplay-Cilati.woff') format('woff'),
-        url('SwearDisplay-Cilati.ttf') format('truetype'),
-        url('SwearDisplay-Cilati.svg#SwearDisplay-Cilati') format('svg');
+    src: url('https://raw.githubusercontent.com/lakshay0825/SwearDisplay/refs/heads/main/font/SwearDisplay-Cilati.eot');
+    src: url('https://raw.githubusercontent.com/lakshay0825/SwearDisplay/refs/heads/main/font/SwearDisplay-Cilati.eot?#iefix') format('embedded-opentype'),
+        url('https://raw.githubusercontent.com/lakshay0825/SwearDisplay/refs/heads/main/font/SwearDisplay-Cilati.woff2') format('woff2'),
+        url('https://raw.githubusercontent.com/lakshay0825/SwearDisplay/refs/heads/main/font/SwearDisplay-Cilati.woff') format('woff'),
+        url('https://raw.githubusercontent.com/lakshay0825/SwearDisplay/refs/heads/main/font/SwearDisplay-Cilati.ttf') format('truetype'),
+        url('https://raw.githubusercontent.com/lakshay0825/SwearDisplay/refs/heads/main/font/SwearDisplay-Cilati.svg#SwearDisplay-Cilati') format('svg');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -39,12 +39,12 @@
 
 @font-face {
     font-family: 'Swear Display';
-    src: url('SwearDisplay-Bold.eot');
-    src: url('SwearDisplay-Bold.eot?#iefix') format('embedded-opentype'),
-        url('SwearDisplay-Bold.woff2') format('woff2'),
-        url('SwearDisplay-Bold.woff') format('woff'),
-        url('SwearDisplay-Bold.ttf') format('truetype'),
-        url('SwearDisplay-Bold.svg#SwearDisplay-Bold') format('svg');
+    src: url('https://raw.githubusercontent.com/lakshay0825/SwearDisplay/refs/heads/main/font/SwearDisplay-Bold.eot');
+    src: url('https://raw.githubusercontent.com/lakshay0825/SwearDisplay/refs/heads/main/font/SwearDisplay-Bold.eot?#iefix') format('embedded-opentype'),
+        url('https://raw.githubusercontent.com/lakshay0825/SwearDisplay/refs/heads/main/font/SwearDisplay-Bold.woff2') format('woff2'),
+        url('https://raw.githubusercontent.com/lakshay0825/SwearDisplay/refs/heads/main/font/SwearDisplay-Bold.woff') format('woff'),
+        url('https://raw.githubusercontent.com/lakshay0825/SwearDisplay/refs/heads/main/font/SwearDisplay-Bold.ttf') format('truetype'),
+        url('https://raw.githubusercontent.com/lakshay0825/SwearDisplay/refs/heads/main/font/SwearDisplay-Bold.svg#SwearDisplay-Bold') format('svg');
     font-weight: bold;
     font-style: normal;
     font-display: swap;
@@ -52,12 +52,12 @@
 
 @font-face {
     font-family: 'Swear Display';
-    src: url('SwearDisplay-BoldItalic.eot');
-    src: url('SwearDisplay-BoldItalic.eot?#iefix') format('embedded-opentype'),
-        url('SwearDisplay-BoldItalic.woff2') format('woff2'),
-        url('SwearDisplay-BoldItalic.woff') format('woff'),
-        url('SwearDisplay-BoldItalic.ttf') format('truetype'),
-        url('SwearDisplay-BoldItalic.svg#SwearDisplay-BoldItalic') format('svg');
+    src: url('https://raw.githubusercontent.com/lakshay0825/SwearDisplay/refs/heads/main/font/SwearDisplay-BoldItalic.eot');
+    src: url('https://raw.githubusercontent.com/lakshay0825/SwearDisplay/refs/heads/main/font/SwearDisplay-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('https://raw.githubusercontent.com/lakshay0825/SwearDisplay/refs/heads/main/font/SwearDisplay-BoldItalic.woff2') format('woff2'),
+        url('https://raw.githubusercontent.com/lakshay0825/SwearDisplay/refs/heads/main/font/SwearDisplay-BoldItalic.woff') format('woff'),
+        url('https://raw.githubusercontent.com/lakshay0825/SwearDisplay/refs/heads/main/font/SwearDisplay-BoldItalic.ttf') format('truetype'),
+        url('https://raw.githubusercontent.com/lakshay0825/SwearDisplay/refs/heads/main/font/SwearDisplay-BoldItalic.svg#SwearDisplay-BoldItalic') format('svg');
     font-weight: bold;
     font-style: italic;
     font-display: swap;
